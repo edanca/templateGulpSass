@@ -1,0 +1,22 @@
+{
+  "name": "sass_project",
+  "version": "0.1.0",
+  "description": "Sass Project using Node and Gulp",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "nodejs"
+  ],
+  "author": "Eduardo Cárdenas",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
