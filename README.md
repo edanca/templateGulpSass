@@ -9,4 +9,5 @@ A light package compiling Sass and running a live dev server
 > Download git repository and work over it.
 
 ## RUN
+> $ npm install
 > $ npm start
